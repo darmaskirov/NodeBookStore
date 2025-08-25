@@ -1,0 +1,9 @@
+# Book Store API (Node + Express)
+
+Demo API for course tasks 1–14.
+
+## Run
+```bash
+npm install
+npm start
+# (optional) npm run client
